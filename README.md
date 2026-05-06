@@ -7,7 +7,7 @@
 **FitTribe** is an open-source, AI-powered holistic wellbeing and fitness tracking platform built with React 19, Supabase, and Google Gemini AI. Designed as a "digital campfire" for close-knit communities, FitTribe goes beyond traditional workout trackers by gamifying both physical fitness (strength training, cardio) and mental wellness (creativity, meditation, cooking) in a cozy, panda-themed interface.
 
 Whether you are looking for an open-source alternative to standard fitness apps, a gamified habit tracker, or a reference architecture for building offline-first PWAs with React and Supabase, FitTribe has you covered.
-
+ 
 ---
 
 ## 🌟 What Makes FitTribe Different? (Features)
